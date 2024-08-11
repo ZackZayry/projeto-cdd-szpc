@@ -1,0 +1,6 @@
+*
+{
+    margin: 0;/*ESPAÇAMENTO EXTERNO*/
+    padding: 0;/*ESPAÇAMENTO INTERNO*/
+    box-sizing: border-box;/*FACILITA O MANUSEIO COM AS CAIXAS*/
+}
